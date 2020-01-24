@@ -1,0 +1,30 @@
+package Programs;
+
+public class Cust {
+	
+	//name,num,dob,address,mailid,proof
+	
+	
+	public String name(String name){
+		System.out.println(name);
+		return name;	
+	}
+	
+	public int Number(int num){
+		System.out.println(num);
+		return num;
+	}
+	
+	public void Address(){
+		System.out.println("Address");
+	}
+	
+	public void MailId(){
+		System.out.println("MailId");
+	}
+	
+	public void Proof(){
+		System.out.println("Addrss Proof");
+	}
+
+}

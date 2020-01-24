@@ -1,0 +1,28 @@
+package Programs;
+
+public class TicketNew implements Bank,CustDet  {
+
+	@Override
+	public void Name() {
+		System.out.println("Name");
+	}
+
+	@Override
+	public void Address() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void Saving() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void Branch() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

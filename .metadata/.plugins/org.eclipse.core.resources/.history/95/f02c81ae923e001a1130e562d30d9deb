@@ -1,0 +1,15 @@
+package Programs;
+
+public class Bank extends CustDet {
+	
+	public void name(){
+		System.out.println("Virat");
+	}
+	
+	public static void main(String[] args) {
+	
+		Bank obj= new Bank();
+		
+	}
+
+}

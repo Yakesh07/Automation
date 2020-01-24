@@ -1,0 +1,19 @@
+package Programs;
+
+public class TicketNew extends Cust {
+	
+	public void Gender(){
+		System.out.println("gender");
+	}
+
+	public static void main(String[] args) {
+		
+		TicketNew obj= new TicketNew();
+		obj.name("Java");
+		obj.Address();
+		obj.MailId();
+		obj.Gender();
+		
+		
+	}
+}

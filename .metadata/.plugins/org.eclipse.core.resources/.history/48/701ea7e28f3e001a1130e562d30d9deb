@@ -1,0 +1,8 @@
+package Programs;
+
+public interface CustDet {
+
+		public void Name();
+		
+		public void Address();
+}

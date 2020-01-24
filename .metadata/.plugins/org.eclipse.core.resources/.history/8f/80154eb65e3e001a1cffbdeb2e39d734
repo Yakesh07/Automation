@@ -1,0 +1,13 @@
+package Programs;
+
+public class TicketNew {
+
+	public static void main(String[] args) {
+		
+		CustDet obj= new Cust();
+		obj.Name();
+		obj.Address();
+		
+		
+	}
+}

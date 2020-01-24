@@ -1,0 +1,11 @@
+package Programs;
+
+public class Ticket extends Bank {
+	
+	public static void main(String[] args) {
+		Ticket obj= new Ticket();
+		obj.name();
+		obj.saving();
+	}
+
+}

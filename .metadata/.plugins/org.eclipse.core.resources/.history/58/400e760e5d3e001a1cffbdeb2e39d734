@@ -1,0 +1,9 @@
+package Programs;
+
+public class Bank extends TicketNew{
+
+	public static void main(String[] args) {
+		
+	
+	}
+}

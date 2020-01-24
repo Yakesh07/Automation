@@ -1,0 +1,20 @@
+package Programs;
+
+public class Hello {
+	
+	
+		public static void main(String[] args) {
+			
+			int age=15;
+			
+			if(age>=18){
+				System.out.println("Apply for Voter Id");
+			}
+			else{
+				System.out.println("Not eligible");
+			}
+			
+		}
+
+		
+}

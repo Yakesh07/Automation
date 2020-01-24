@@ -1,0 +1,9 @@
+package Programs;
+
+public class Cust  {
+	
+		static int a=10;
+		
+		static int b=20;
+	
+}

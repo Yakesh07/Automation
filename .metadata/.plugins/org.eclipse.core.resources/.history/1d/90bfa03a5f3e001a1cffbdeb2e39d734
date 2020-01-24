@@ -1,0 +1,12 @@
+package Programs;
+
+public class TicketNew extends Cust{
+
+	public static void main(String[] args) {
+		
+		
+		TicketNew obj= new TicketNew();
+		
+	
+	}
+}

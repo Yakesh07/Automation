@@ -1,0 +1,14 @@
+package Programs;
+
+public class TicketNew extends Cust{
+
+	public static void main(String[] args) {
+		
+			int d=a+b;
+			System.out.println(d);
+			TicketNew.add();
+		
+		
+	
+	}
+}

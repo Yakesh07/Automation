@@ -1,0 +1,13 @@
+package Programs;
+
+public class TicketNew {
+
+	public static void main(String[] args) {
+		
+		Cust obj= new Cust();
+		obj.name("Yakesh");
+		obj.Number(123456);
+		obj.MailId();
+		
+	}
+}

@@ -1,0 +1,26 @@
+package Programs;
+
+public class Hello {
+	
+	
+		public static void main(String[] args) {
+			
+			int age=5;
+			
+			if(age>=18){
+				System.out.println("Apply for Voter Id");
+			}
+			else if(age>=6){
+				System.out.println("Apply for aadhar Card");
+			}
+			else if(age>=3){
+				System.out.println("apply foir school admission");
+			}
+			else{
+				System.out.println("Not eligible");
+			}
+			
+		}
+
+		
+}

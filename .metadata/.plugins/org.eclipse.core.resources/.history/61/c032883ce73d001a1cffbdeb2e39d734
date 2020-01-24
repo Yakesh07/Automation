@@ -1,0 +1,13 @@
+package Programs;
+
+public class Bank extends Cust{
+
+	public static void main(String[] args) {
+		
+		Bank obj= new Bank();
+		obj.MailId();
+		obj.Gender();
+		
+	}
+
+}

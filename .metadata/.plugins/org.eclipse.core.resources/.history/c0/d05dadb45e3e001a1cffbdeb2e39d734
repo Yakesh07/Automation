@@ -1,0 +1,26 @@
+package Programs;
+
+public class Cust  {
+	
+	@Override
+	public void Name() {
+		System.out.println("Name");
+	}
+
+	@Override
+	public void Address() {
+		System.out.println("Address");
+	}
+
+	@Override
+	public void Saving() {
+		System.out.println("Savings");
+	}
+
+	@Override
+	public void Branch() {
+		System.out.println("Branch");
+	}
+
+	
+}

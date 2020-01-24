@@ -1,0 +1,23 @@
+package JavaPro;
+
+import java.util.Scanner;
+
+public class Hello {
+	public static void main(String[] args) {
+
+		int num;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the Number");
+		num=sc.nextInt();
+		
+		switch (num) {
+		case 10:
+			System.out.println("Number 10 is available");
+			break;
+
+		default:
+			break;
+		}
+
+	}
+}

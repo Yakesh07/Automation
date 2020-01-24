@@ -1,0 +1,9 @@
+package Programs;
+
+public interface Bank {
+	
+	public void Saving();
+	
+	public void Branch();
+	
+}

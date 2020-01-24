@@ -1,0 +1,17 @@
+package Programs;
+
+public class Hello {
+
+		public static void main(String[] args) {
+			
+			int age=15;
+			int hp=50;
+			
+			if(age>=18){
+				System.out.println("Age is satisfied");
+			}
+			
+		}
+
+		
+}

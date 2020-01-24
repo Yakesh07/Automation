@@ -1,0 +1,33 @@
+package JavaPro;
+
+public class Hello {
+	
+	
+	public static void main(String[] args) {
+		
+		//1-10
+		//for
+		
+		for(int i=1;i<=10;i++){
+			System.out.println(i);
+		}
+		
+		//while loop
+		
+		int a=11;
+		while(a<=20){
+			System.out.println(a);
+			a++;
+		}
+		
+		//do while
+		
+		int b=21;
+		do{
+			System.out.println(b);
+			b++''
+		}while(b<=20);
+		
+				
+	}
+}
